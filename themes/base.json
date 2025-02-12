@@ -56,8 +56,7 @@
     {
       "scope": "invalid",
       "settings": {
-        "foreground": "#F44747",
-        "fontStyle": "strikethrough"
+        "foreground": "#F44747"
       }
     },
     {

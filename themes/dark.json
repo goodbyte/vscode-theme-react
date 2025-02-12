@@ -20,7 +20,7 @@
         "entity.other.attribute-name.class"
       ],
       "settings": {
-        "foreground": "#FFD465"
+        "foreground": "#FFD38F"
       }
     },
     {
@@ -29,7 +29,7 @@
         "entity.other.attribute-name.pseudo-element"
       ],
       "settings": {
-        "foreground": "#FFE9AF"
+        "foreground": "#FFE3B9"
       }
     },
     {
@@ -92,6 +92,7 @@
         "keyword",
         "keyword.operator.expression",
         "keyword.operator.new",
+        "keyword.operator.ternary",
         "keyword.operator.type",
         "storage",
         "support.type.object.module",
@@ -114,7 +115,7 @@
         "keyword.operator.logical.only.media"
       ],
       "settings": {
-        "foreground": "#C75FB0"
+        "foreground": "#D385C7"
       }
     },
     {

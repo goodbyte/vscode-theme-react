@@ -5,7 +5,7 @@
   "publisher": "goodbyte",
   "license": "MIT",
   "author": {
-    "name": "José Guerra"
+    "name": "goodbyte"
   },
   "repository": {
     "type": "git",
@@ -14,7 +14,7 @@
   "bugs": {
     "url": "https://github.com/goodbyte/vscode-theme-react/issues"
   },
-  "version": "1.0.0",
+  "version": "1.0.1",
   "engines": {
     "vscode": "^1.96.0"
   },
